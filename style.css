@@ -1,0 +1,25 @@
+body
+{
+background-size:cover;
+}
+
+.heading{
+    margin:0;
+    width:100%;
+    font-size:22px;
+    color:black;
+}
+.heading button{
+    font-size:15px;
+    border:1px solid white;
+    float:right;
+}
+.heading h3{
+    display:inline;
+    float:left;
+}
+
+#start{
+    width:100px;
+    
+}
